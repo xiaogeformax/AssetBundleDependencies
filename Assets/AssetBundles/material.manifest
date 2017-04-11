@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1514321846
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1cb44e44741a99dcb49a63b901db27f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 20d2a047ae4e99a3eaf853982df4d9aa
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Material/New Material.mat
+Dependencies:
+- Assets/AssetBundles/sakura

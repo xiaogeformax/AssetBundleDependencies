@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/AssetBundleDependencies.unity
+  isLoaded: 1
+  isActive: 1

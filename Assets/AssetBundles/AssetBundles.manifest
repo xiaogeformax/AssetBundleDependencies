@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: material
+      Dependencies:
+        Dependency_0: sakura
+    Info_1:
+      Name: sphere
+      Dependencies:
+        Dependency_0: material
+    Info_2:
+      Name: cube
+      Dependencies:
+        Dependency_0: material
+    Info_3:
+      Name: sakura
+      Dependencies: {}
